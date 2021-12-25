@@ -1,0 +1,4 @@
+{
+    "baseUrl": "https://employeessb-devl.ec.cccd.edu:8102/EmployeeSelfService",
+    "chromeWebSecurity": false
+}
