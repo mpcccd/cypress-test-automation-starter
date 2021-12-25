@@ -1,5 +1,7 @@
 README.md
 
+## Environment setup
+See Setup-Readme.md for steps to setup environment
 
 ## Edit config with credentials
 ### cypress.env.json
