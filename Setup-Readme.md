@@ -35,6 +35,13 @@ yarn add cypress-xpath --dev
 yarn add oracledb --dev
 ```
 
+## Install Oracle Instant Client (Basic Light)
+Download the Basic Light Package
+https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html
+1. Download contents to:
+    C:\oracle\instantclient_<VERSION_NUMBER>_<VERSION_MINOR>
+2. Add that directory to the PATH environment variables
+
 ## Start test server and open up dashboard(and initialize cypress folder)
 ```
 $> npx cypress open
